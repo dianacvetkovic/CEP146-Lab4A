@@ -78,28 +78,22 @@ This policy applies to current students and employees.
 ---
 ## Policy
 ### 1. General
->  1.1 Seneca uphold a learning Seneca upholds a learning community that values academic integrity, honesty, fairness, trust, respect, responsibility and courage.
-
->  1.2 Seneca is committed to delivering high-quality education and teaching excellence while supporting a positive, equitable and inclusive learning environment.  
+-   1.1 Seneca uphold a learning Seneca upholds a learning community that values academic integrity, honesty, fairness, trust, respect, responsibility and courage.
+-  1.2 Seneca is committed to delivering high-quality education and teaching excellence while supporting a positive, equitable and inclusive learning environment.  
 
 ### 2. Academic integirty program
->  2.1 Academic integrity is fundamental to ensure the academic credentials granted by Seneca accurately demonstrate the knowledge and learning of students from all backgrounds and experiences.
-
->  2.2 The integrated nature of the program requires that policy and procedure, development and training for faculty, along with training sessions and student life programming, be aligned with the institutional philosophies and approaches to academic integrity.
+-  2.1 Academic integrity is fundamental to ensure the academic credentials granted by Seneca accurately demonstrate the knowledge and learning of students from all backgrounds and experiences.
+-  2.2 The integrated nature of the program requires that policy and procedure, development and training for faculty, along with training sessions and student life programming, be aligned with the institutional philosophies and approaches to academic integrity.
 
 ### 3. Responsibilities
->  3.1 Seneca is responsible for providing information and resources to students focused on ensuring a clear understanding of academic integrity, its importance, what can be done to avoid violations, and how to receive support to achieve a resolution if they occur.
-
->  3.2 Students are responsible for informing faculty of any circumstance affecting their academic performance as soon as it is known to allow enough time for alternate arrangements.
-
->  3.3 If a student witnesses or suspects an academic integrity violation, the student can report it following the procedures outlined in *Appendix A.*
+-  3.1 Seneca is responsible for providing information and resources to students focused on ensuring a clear understanding of academic integrity, its importance, what can be done to avoid violations, and how to receive support to achieve a resolution if they occur.
+-  3.2 Students are responsible for informing faculty of any circumstance affecting their academic performance as soon as it is known to allow enough time for alternate arrangements.
+-  3.3 If a student witnesses or suspects an academic integrity violation, the student can report it following the procedures outlined in *Appendix A.*
 
 ### 4. Sancation
->  4.1 Academic integrity sanctions will be applied according to the severity of the violation committed. (See *Appendix B* for the academic integrity sanctions.)
-
->  4.2 Before final decisions are made and/or sanctions are applied, the student’s record should be consulted to determine if there were aggravating and/or mitigating factors to the academic integrity violation.
-
->  4.3 Should a suspected violation of this policy result from, or be combined with, a suspected violation of Seneca’s Student Code of Conduct and/or another non-academic-related Seneca policy, the matter will be investigated and adjudicated through the processes found in the Student Code of Conduct.
+-  4.1 Academic integrity sanctions will be applied according to the severity of the violation committed. (See *Appendix B* for the academic integrity sanctions.)
+-  4.2 Before final decisions are made and/or sanctions are applied, the student’s record should be consulted to determine if there were aggravating and/or mitigating factors to the academic integrity violation.
+-  4.3 Should a suspected violation of this policy result from, or be combined with, a suspected violation of Seneca’s Student Code of Conduct and/or another non-academic-related Seneca policy, the matter will be investigated and adjudicated through the processes found in the Student Code of Conduct.
 
 ---
 ## Supporting documentation
